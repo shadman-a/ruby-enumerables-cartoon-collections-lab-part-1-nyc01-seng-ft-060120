@@ -5,7 +5,7 @@
 def greet_characters(array)
   array.each do |title|
   puts "Hello #{title}!"
-end
+ end
 end
 
 # Use `each_with_index` to enumerate over the provided array
